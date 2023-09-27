@@ -1,2 +1,2 @@
 # mabouya-web
-Website catalog for Mabouya's product desaign
+Website catalog for Mabouya's product design
